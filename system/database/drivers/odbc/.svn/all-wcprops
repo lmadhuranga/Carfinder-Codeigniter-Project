@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/carfinder/!svn/ver/6/trunk/source/carfinder/system/database/drivers/odbc
+END
+odbc_driver.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/carfinder/!svn/ver/6/trunk/source/carfinder/system/database/drivers/odbc/odbc_driver.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/carfinder/!svn/ver/6/trunk/source/carfinder/system/database/drivers/odbc/index.html
+END
+odbc_result.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/carfinder/!svn/ver/6/trunk/source/carfinder/system/database/drivers/odbc/odbc_result.php
+END
+odbc_forge.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/carfinder/!svn/ver/6/trunk/source/carfinder/system/database/drivers/odbc/odbc_forge.php
+END
+odbc_utility.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/carfinder/!svn/ver/6/trunk/source/carfinder/system/database/drivers/odbc/odbc_utility.php
+END

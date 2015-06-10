@@ -1,0 +1,659 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/carfinder/!svn/ver/120/trunk/source/carfinder/application/views/admin
+END
+notification_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/notification_add.php
+END
+welcome_message.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/welcome_message.php
+END
+today_vehicle_driver_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/carfinder/!svn/ver/91/trunk/source/carfinder/application/views/admin/today_vehicle_driver_edit.php
+END
+device_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/device_edit.php
+END
+fuel_type_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/carfinder/!svn/ver/22/trunk/source/carfinder/application/views/admin/fuel_type_add.php
+END
+website_news_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/carfinder/!svn/ver/45/trunk/source/carfinder/application/views/admin/website_news_add.php
+END
+device_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/device_add.php
+END
+chat_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/chat_view.php
+END
+chat_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/carfinder/!svn/ver/40/trunk/source/carfinder/application/views/admin/chat_list.php
+END
+vehicle_status_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/vehicle_status_view.php
+END
+vehicle_status_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/carfinder/!svn/ver/45/trunk/source/carfinder/application/views/admin/vehicle_status_list.php
+END
+website_booking_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/website_booking_edit.php
+END
+notification_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/notification_view.php
+END
+notification_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/notification_list.php
+END
+town_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/town_view.php
+END
+admin_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/admin_view.php
+END
+fuel_refill_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/fuel_refill_view.php
+END
+town_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/carfinder/!svn/ver/45/trunk/source/carfinder/application/views/admin/town_list.php
+END
+admin_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/admin_list.php
+END
+fuel_refill_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/carfinder/!svn/ver/120/trunk/source/carfinder/application/views/admin/fuel_refill_list.php
+END
+report_driver_cash_today.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/carfinder/!svn/ver/111/trunk/source/carfinder/application/views/admin/report_driver_cash_today.php
+END
+journey_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/journey_view.php
+END
+vehicle_type_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/carfinder/!svn/ver/27/trunk/source/carfinder/application/views/admin/vehicle_type_edit.php
+END
+journey_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/carfinder/!svn/ver/40/trunk/source/carfinder/application/views/admin/journey_list.php
+END
+bookmark_location_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/bookmark_location_view.php
+END
+bookmark_location_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/bookmark_location_list.php
+END
+website_news_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/website_news_view.php
+END
+website_news_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/website_news_list.php
+END
+brand_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/carfinder/!svn/ver/40/trunk/source/carfinder/application/views/admin/brand_add.php
+END
+food_place_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/food_place_edit.php
+END
+salary_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/salary_edit.php
+END
+fuel_type_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/carfinder/!svn/ver/22/trunk/source/carfinder/application/views/admin/fuel_type_edit.php
+END
+today_vehicle_driver_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/carfinder/!svn/ver/91/trunk/source/carfinder/application/views/admin/today_vehicle_driver_add.php
+END
+food_place_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/food_place_add.php
+END
+salary_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/salary_add.php
+END
+bookmark_location_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/bookmark_location_add.php
+END
+vehicle_log_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/vehicle_log_view.php
+END
+vehicle_log_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/carfinder/!svn/ver/45/trunk/source/carfinder/application/views/admin/vehicle_log_list.php
+END
+hotel_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/hotel_edit.php
+END
+brand_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/carfinder/!svn/ver/40/trunk/source/carfinder/application/views/admin/brand_view.php
+END
+report_driver_cash_date.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/carfinder/!svn/ver/111/trunk/source/carfinder/application/views/admin/report_driver_cash_date.php
+END
+brand_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/carfinder/!svn/ver/45/trunk/source/carfinder/application/views/admin/brand_list.php
+END
+website_booking_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/website_booking_add.php
+END
+website_package_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/carfinder/!svn/ver/71/trunk/source/carfinder/application/views/admin/website_package_edit.php
+END
+hotel_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/hotel_add.php
+END
+inform_car_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/carfinder/!svn/ver/102/trunk/source/carfinder/application/views/admin/inform_car_edit.php
+END
+vehicle_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/vehicle_edit.php
+END
+today_vehicle_driver_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/today_vehicle_driver_view.php
+END
+vehicle_log_current_locaitons_map_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/vehicle_log_current_locaitons_map_view.php
+END
+today_vehicle_driver_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/carfinder/!svn/ver/40/trunk/source/carfinder/application/views/admin/today_vehicle_driver_list.php
+END
+vehicle_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/vehicle_add.php
+END
+report_driver_earn_value.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/carfinder/!svn/ver/39/trunk/source/carfinder/application/views/admin/report_driver_earn_value.php
+END
+inform_car_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/inform_car_add.php
+END
+_layout_modal.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/carfinder/!svn/ver/88/trunk/source/carfinder/application/views/admin/_layout_modal.php
+END
+device_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/device_view.php
+END
+device_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/carfinder/!svn/ver/40/trunk/source/carfinder/application/views/admin/device_list.php
+END
+fuel_center_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/carfinder/!svn/ver/45/trunk/source/carfinder/application/views/admin/fuel_center_edit.php
+END
+admin_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/admin_add.php
+END
+driver_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/carfinder/!svn/ver/99/trunk/source/carfinder/application/views/admin/driver_edit.php
+END
+fuel_refill_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/fuel_refill_add.php
+END
+login_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/carfinder/!svn/ver/84/trunk/source/carfinder/application/views/admin/login_view.php
+END
+driver_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/carfinder/!svn/ver/98/trunk/source/carfinder/application/views/admin/driver_add.php
+END
+fuel_center_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/carfinder/!svn/ver/45/trunk/source/carfinder/application/views/admin/fuel_center_add.php
+END
+website_booking_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/website_booking_view.php
+END
+website_booking_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/carfinder/!svn/ver/102/trunk/source/carfinder/application/views/admin/website_booking_list.php
+END
+report_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/carfinder/!svn/ver/113/trunk/source/carfinder/application/views/admin/report_list.php
+END
+vehicle_type_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/carfinder/!svn/ver/23/trunk/source/carfinder/application/views/admin/vehicle_type_view.php
+END
+vehicle_type_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/carfinder/!svn/ver/45/trunk/source/carfinder/application/views/admin/vehicle_type_list.php
+END
+chat_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/chat_edit.php
+END
+food_place_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/food_place_view.php
+END
+salary_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/salary_view.php
+END
+fuel_type_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/carfinder/!svn/ver/22/trunk/source/carfinder/application/views/admin/fuel_type_view.php
+END
+food_place_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/carfinder/!svn/ver/40/trunk/source/carfinder/application/views/admin/food_place_list.php
+END
+salary_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/salary_list.php
+END
+chat_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/carfinder/!svn/ver/46/trunk/source/carfinder/application/views/admin/chat_add.php
+END
+fuel_type_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/fuel_type_list.php
+END
+vehicle_status_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/carfinder/!svn/ver/45/trunk/source/carfinder/application/views/admin/vehicle_status_edit.php
+END
+vehicle_log_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/carfinder/!svn/ver/103/trunk/source/carfinder/application/views/admin/vehicle_log_add.php
+END
+report_earns_in_year_highchart.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/carfinder/!svn/ver/112/trunk/source/carfinder/application/views/admin/report_earns_in_year_highchart.php
+END
+notification_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/notification_edit.php
+END
+town_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/carfinder/!svn/ver/45/trunk/source/carfinder/application/views/admin/town_edit.php
+END
+admin_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/admin_edit.php
+END
+fuel_refill_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/fuel_refill_edit.php
+END
+town_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/town_add.php
+END
+journey_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/journey_edit.php
+END
+bookmark_location_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/bookmark_location_edit.php
+END
+website_news_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/carfinder/!svn/ver/45/trunk/source/carfinder/application/views/admin/website_news_edit.php
+END
+journey_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/journey_add.php
+END
+hotel_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/hotel_view.php
+END
+hotel_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/carfinder/!svn/ver/45/trunk/source/carfinder/application/views/admin/hotel_list.php
+END
+website_package_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/website_package_view.php
+END
+website_package_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/carfinder/!svn/ver/45/trunk/source/carfinder/application/views/admin/website_package_list.php
+END
+inform_car_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/carfinder/!svn/ver/102/trunk/source/carfinder/application/views/admin/inform_car_view.php
+END
+vehicle_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/vehicle_view.php
+END
+inform_car_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/inform_car_list.php
+END
+vehicle_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/vehicle_list.php
+END
+.back_layout_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/carfinder/!svn/ver/40/trunk/source/carfinder/application/views/admin/.back_layout_main.php
+END
+_layout_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/carfinder/!svn/ver/118/trunk/source/carfinder/application/views/admin/_layout_main.php
+END
+dashboard_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/carfinder/!svn/ver/118/trunk/source/carfinder/application/views/admin/dashboard_view.php
+END
+driver_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/driver_view.php
+END
+website_package_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/carfinder/!svn/ver/71/trunk/source/carfinder/application/views/admin/website_package_add.php
+END
+fuel_center_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/fuel_center_view.php
+END
+vehicle_log_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/carfinder/!svn/ver/68/trunk/source/carfinder/application/views/admin/vehicle_log_edit.php
+END
+driver_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/carfinder/!svn/ver/98/trunk/source/carfinder/application/views/admin/driver_list.php
+END
+fuel_center_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/carfinder/!svn/ver/45/trunk/source/carfinder/application/views/admin/fuel_center_list.php
+END
+vehicle_type_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/carfinder/!svn/ver/23/trunk/source/carfinder/application/views/admin/vehicle_type_add.php
+END
+report_driver_cash_month.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/carfinder/!svn/ver/119/trunk/source/carfinder/application/views/admin/report_driver_cash_month.php
+END
+vehicle_status_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/carfinder/!svn/ver/40/trunk/source/carfinder/application/views/admin/vehicle_status_add.php
+END
+brand_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/carfinder/!svn/ver/40/trunk/source/carfinder/application/views/admin/brand_edit.php
+END

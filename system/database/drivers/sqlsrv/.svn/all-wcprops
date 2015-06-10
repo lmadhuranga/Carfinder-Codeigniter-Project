@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/carfinder/!svn/ver/6/trunk/source/carfinder/system/database/drivers/sqlsrv
+END
+sqlsrv_forge.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/carfinder/!svn/ver/6/trunk/source/carfinder/system/database/drivers/sqlsrv/sqlsrv_forge.php
+END
+sqlsrv_utility.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/carfinder/!svn/ver/6/trunk/source/carfinder/system/database/drivers/sqlsrv/sqlsrv_utility.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/carfinder/!svn/ver/6/trunk/source/carfinder/system/database/drivers/sqlsrv/index.html
+END
+sqlsrv_driver.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/carfinder/!svn/ver/6/trunk/source/carfinder/system/database/drivers/sqlsrv/sqlsrv_driver.php
+END
+sqlsrv_result.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/carfinder/!svn/ver/6/trunk/source/carfinder/system/database/drivers/sqlsrv/sqlsrv_result.php
+END
